@@ -23,3 +23,8 @@
 - 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)
 - 📬 Email: santysegal@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelnicaise&theme=dark&show_icons=true&locale=en&layout=compact" alt="raphaelnicaise" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelnicaise&theme=dark&show_icons=true&locale=en" alt="raphaelnicaise" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelnicaise&theme=dark" alt="raphaelnicaise" /></p>
