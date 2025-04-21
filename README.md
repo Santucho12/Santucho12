@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/71233870-b529-4e28-86f0-eaa940c4890a)
+
+
 <h1 align="center">Hola 👋, soy Santiago Segal</h1>
 <h3 align="center">Desarrollador Web Front-End | Estudiante de Ingeniería en Sistemas</h3>
 
