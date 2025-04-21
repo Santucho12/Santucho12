@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/71233870-b529-4e28-86f0-eaa940c4890a)
 
 
-<h1 align="center">Hola 👋, soy Santiago Segal</h1>
-<h3 align="center">Desarrollador C#.NET | Estudiante avanzado de programacion</h3>
+<h1 >Hola 👋, soy Santiago Segal</h1>
+<h3 ">Desarrollador C#.NET | Estudiante avanzado de programacion</h3>
 
-<p align="left">🎓 Estudiante de la UTN - Tecnicatura en programacion<br>
+<p >🎓 Estudiante de la UTN - Tecnicatura en programacion<br>
 💻 Apasionado por desarrollar soluciones eficientes y resolver problemas<br>
 🚀 Siempre aprendiendo nuevas tecnologías y mejores prácticas</p>
 
