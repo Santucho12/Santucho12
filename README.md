@@ -10,12 +10,25 @@
 
 ---
 
-### 🛠️ Tecnologías que uso
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🚀✨ Skills & Technologies
+
+💡 Principales:
+
+<p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Entity%20Framework-6DB33F?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LINQ-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WinForms-0081CB?style=flat&logo=windows&logoColor=white" />
+</p>
+
+💡 Adicionales:
 ---
 
 ### 📫 Cómo contactarme
