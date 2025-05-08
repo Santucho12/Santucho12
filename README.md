@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
+---
+
 ### 📫 Cómo contactarme
 
 - 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)
