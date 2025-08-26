@@ -35,7 +35,6 @@
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="600" > <p>**My Best Project** |
 |------------------------------------------------------------------------------|
 | 🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles.
-
 This system uses a proprietary API, developed entirely by me, to manage all user logic, claims, responses, and authentication.. |
 | 🛠️ **Technologies:** `C#` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
