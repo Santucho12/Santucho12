@@ -14,8 +14,6 @@
 🚀 Always learning new technologies and best practices
 </p>
 
----
-
 ### 🛠️ Technologies I use
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -30,6 +28,9 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
+---
+
+
 
 
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="600" > <p>**My Best Project** |
