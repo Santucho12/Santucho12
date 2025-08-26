@@ -56,7 +56,7 @@
 
 | **🥈 Medical clinic** |
 |------------------------------------------------------------------------------|
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="700" > </p> |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="800" > </p> |
 | 🔹 **Description:** This project is a web application for a clinic to manage patients and appointments. It uses the MERN stack |
 | 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/ClinicaMedica-proyecto-programacion3.git) |
