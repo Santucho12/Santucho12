@@ -1,16 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h1 style="margin: 0;">Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
-  </div>
-  <div>
-    <a href="README.es.md">
-      <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;" width="65"/>
-    </a>
-    <a href="README.md">
-      <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;" width="65"/>
-    </a>
-  </div>
-</div>
+<h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
 <p>I’m <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development</p>
 
 <p>Here you will find public repositories with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
