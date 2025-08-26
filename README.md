@@ -3,7 +3,8 @@
 
 ## 📊 My GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santucho12&theme=tokyonight)
+![Santiago Segal's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santucho12&theme=github_dark)
+
 
 <p>
 🎓 Estudiante de la UTN - Tecnicatura en programación<br>
