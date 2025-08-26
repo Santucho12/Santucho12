@@ -1,14 +1,14 @@
-<table width="100%"><tr>
-<td><h1>Hola, soy Santiago Segal👋🏽 👨🏽‍💻</h1></td>
-<td align="right" width="160">
-  <a href="README.es.md">
-  <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;" width="65"/>
-  </a>
-  <a href="README.md">
-  <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;" width="65"/>
-  </a>
-</td>
-</tr></table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Hola, soy Santiago Segal👋🏽 👨🏽‍💻</h1>
+  <div>
+    <a href="README.es.md">
+      <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;" width="65"/>
+    </a>
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;" width="65"/>
+    </a>
+  </div>
+</div>
 <p>Soy <strong>Estudiante avanzado de programación</strong> en la UTN, apasionado por desarrollar soluciones eficientes y resolver problemas complejos. Tengo experiencia en el desarrollo de aplicaciones web y APIs.</p>
 
 <p>Aquí encontrarás repositorios públicos con <strong>ejemplos de habilidades</strong>. No dudes en <strong>contactarme</strong> si tienes sugerencias o preguntas.</p>
