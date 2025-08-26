@@ -9,14 +9,14 @@
 
 
 <p>
-🎓 Estudiante de la UTN - Tecnicatura en programación<br>
-💻 Apasionado por desarrollar soluciones eficientes y resolver problemas<br>
-🚀 Siempre aprendiendo nuevas tecnologías y mejores prácticas
+🎓 UTN Student - Programming Technician<br>
+💻 Passionate about developing efficient solutions and solving problems<br>
+🚀 Always learning new technologies and best practices
 </p>
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Technologies I use
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -34,6 +34,6 @@
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to contact me
 - 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)
 - 📬 Email: santysegal@gmail.com
