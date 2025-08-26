@@ -39,7 +39,7 @@
 | **My Best Project** |
 |------------------------------------------------------------------------------|
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="700" > </p> |
-|🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me. |
+|🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for| managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me. |
 | 🛠️ **Technologies:** `C#`, `ASP.NET Core MVC / Razor Pages`, `JWT`, `SignalR`, `REST API`, `Docker`, `CSV Export` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
 
