@@ -44,14 +44,14 @@
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
 
 
-| **⭐️ SupportWebb** <img src="https://img.shields.io/badge/-Star-CCCCCC?style=flat&logo=star&logoColor=white" alt="Silver Star" /> |
+| **🥈 hotel reservations** |
 |------------------------------------------------------------------------------|
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="800" > </p> |
 | 🔹 **Description:** Another project example: a full-stack application with Node.js and React. It's a hotel reservation management system that uses MongoDB. |
 | 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/HotelReservas-proyectoFinal-BaseDeDatos2.git) |
 
-| **⭐ SupportWebb** |
+| **🥈 Medical clinic** |
 |------------------------------------------------------------------------------|
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="700" > </p> |
 | 🔹 **Description:** This project is a web application for a clinic to manage patients and appointments. It uses the MERN stack |
