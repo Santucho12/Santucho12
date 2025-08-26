@@ -1,9 +1,9 @@
 <div align="right">
   <a href="README.es.md">
-    <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #e63946;border-radius:8px;border:1px solid #e63946;"/>
+  <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #e00707ff;border-radius:8px;border:1px solid #e00707ff;" width="80"/>
   </a>
   <a href="README.md">
-    <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #007bff;border-radius:8px;border:1px solid #007bff;"/>
+  <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;border:1px solid ##0055ffff;" width="80"/>
   </a>
 </div>
 
