@@ -1,7 +1,11 @@
-<p align="right">
-  <a href="README.es.md"><img src="https://img.shields.io/badge/-Español-red" alt="Español"/></a>
-  <a href="README.md"><img src="https://img.shields.io/badge/-English-blue" alt="English"/></a>
-</p>
+<div align="right">
+  <a href="README.es.md">
+    <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #e63946;border-radius:8px;border:1px solid #e63946;"/>
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #007bff;border-radius:8px;border:1px solid #007bff;"/>
+  </a>
+</div>
 
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
 <p>I’m <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development</p>
