@@ -31,18 +31,28 @@
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
 
+| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects**               |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
+| 🛠️ **Technologies:** `Flutter`|
+| 🌐 **Repository:** [Link to Demo]([https://github.com/santozzi/lab4tp2](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)) |
+                        
+
+| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects**               |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
+| 🛠️ **Technologies:** `Flutter`|
+| 🌐 **Repository:** [Link to Demo]([https://github.com/santozzi/lab4tp2](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)) |
 
 
-### My Best projects
+| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects**               |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
+| 🛠️ **Technologies:** `Flutter`|
+| 🌐 **Repository:** [Link to Demo]([https://github.com/santozzi/lab4tp2](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)) |
+</p>        
+<!--- stats (end) -->
 
-![My Best projects](<img width="543" height="575" alt="Captura de pantalla 2025-08-26 000132" src="https://github.com/user-attachments/assets/42129bdb-0f40-4504-a5c9-72c6d22130e1" />
-)
-
-- **Description:** Project for lab 4, it is a full stack of Node.js and Flutter, done as a team. It uses an API created with Node.js which connects to Platzi fake store API.
-- **Technologies:** `Flutter`
-- **Repository:** [[Link to Demo](https://github.com/RaphaelNicaise/Metodologia-de-Sistemas-2.git)](#)
-
----
 
 ### 📫 How to contact me
 - 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)
