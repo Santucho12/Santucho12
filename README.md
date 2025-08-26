@@ -1,4 +1,4 @@
-<h1>Hola 👋, soy Santiago Segal</h1>
+<h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
 <h3>Desarrollador C#.NET | Estudiante avanzado de programación</h3>
 
 ## 📊 My GitHub Stats
