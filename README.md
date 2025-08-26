@@ -1,8 +1,12 @@
-![image](https://github.com/user-attachments/assets/71233870-b529-4e28-86f0-eaa940c4890a)
+
 
 
 <h1 >Hola 👋, soy Santiago Segal</h1>
 <h3 ">Desarrollador C#.NET | Estudiante avanzado de programacion</h3>
+## 📊 My GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=tokyonight)
+
 
 <p >🎓 Estudiante de la UTN - Tecnicatura en programacion<br>
 💻 Apasionado por desarrollar soluciones eficientes y resolver problemas<br>
