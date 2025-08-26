@@ -31,27 +31,24 @@
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects**               |
-|------------------------------------------------------------------------------|
-| 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
-| 🛠️ **Technologies:** `Flutter`|
-| 🌐 **Repository:** [Link to Demo](https://github.com/santozzi/lab4tp2](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)) |
-                        
 
-| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects**               |
+| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects** |
 |------------------------------------------------------------------------------|
-| 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
-| 🛠️ **Technologies:** `Flutter`|
-| 🌐 **Repository:** [Link to Demo]([https://github.com/santozzi/lab4tp2](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)) |
+| 🔹 **Description:** Project for lab 4, it is a full stack of Node.js and Flutter, done as a team. It uses an API created with Node.js which connects to Platzi Fake Store API. |
+| 🛠️ **Technologies:** `Flutter` |
+| 🌐 **Repository:** [Link to Demo](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
 
-
-| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects**               |
+| <p align="center"> <img src="./images/flutterproject2.png" width="200" > <p>**Other Project** |
 |------------------------------------------------------------------------------|
-| 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
-| 🛠️ **Technologies:** `Flutter`|
-| 🌐 **Repository:** [Link to Demo]([https://github.com/santozzi/lab4tp2](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)) |
-</p>        
-<!--- stats (end) -->
+| 🔹 **Description:** Another project example, full stack app using Node.js and React. Implemented user authentication and REST API consumption. |
+| 🛠️ **Technologies:** `Node.js`, `React` |
+| 🌐 **Repository:** [Link to Demo](https://github.com/Santucho12/AnotherProject.git) |
+
+| <p align="center"> <img src="./images/flutterproject3.png" width="200" > <p>**Third Project** |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** Mobile app built with Flutter, connecting to a custom backend API. Features real-time updates and data synchronization. |
+| 🛠️ **Technologies:** `Flutter`, `Node.js` |
+| 🌐 **Repository:** [Link to Demo](https://github.com/Santucho12/ThirdProject.git) |
 
 
 ### 📫 How to contact me
