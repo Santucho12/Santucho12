@@ -9,8 +9,8 @@
 <p>Here you will find public repositories with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
 
 
-
 <img alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Santucho12&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=3399ff&amp;text_color=242424ff&amp;icon_color=3455ccff&amp;ring_color=3399ff">
+
 
 
 <p>
