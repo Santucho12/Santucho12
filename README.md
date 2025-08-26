@@ -2,10 +2,10 @@
 <td><h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1></td>
 <td align="right" width="160">
   <a href="README.es.md">
-    <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;border:1px solid #ff0000ff;" width="65"/>
+  <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;" width="65"/>
   </a>
   <a href="README.md">
-    <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;border:1px solid #0055ffff;" width="65"/>
+  <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;" width="65"/>
   </a>
 </td>
 </tr></table>
