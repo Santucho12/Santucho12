@@ -1,13 +1,14 @@
-<div align="right">
+<table width="100%"><tr>
+<td><h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1></td>
+<td align="right" width="160">
   <a href="README.es.md">
-  <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;border:1px solid #ff0000ff;" width="50"/>
+    <img src="https://img.shields.io/badge/Español-%23e63946?style=for-the-badge&logo=spanish&logoColor=white&labelColor=black" alt="Español" style="box-shadow:0 2px 6px #ff0000ff;border-radius:8px;border:1px solid #ff0000ff;" width="65"/>
   </a>
   <a href="README.md">
-  <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;border:1px solid ##0055ffff;" width="50"/>
+    <img src="https://img.shields.io/badge/English-%23007bff?style=for-the-badge&logo=english&logoColor=white&labelColor=black" alt="English" style="box-shadow:0 2px 6px #0055ffff;border-radius:8px;border:1px solid #0055ffff;" width="65"/>
   </a>
-</div>
-
-<h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
+</td>
+</tr></table>
 <p>I’m <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development</p>
 
 <p>Here you will find public repositories with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
