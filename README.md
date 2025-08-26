@@ -1,7 +1,7 @@
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
 <p>I’m an <strong>Advanced Student</strong> of the Programming Technician program at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in <strong>web application</strong> and <strong>API development</strong></p>
 
-<p>Here you will find public repositories with <strong>Skills examples</strong>. Feel free to <strong>contact me if you have any suggestions or questions.</p>
+<p>Here you will find public repositories with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
 
 
 
