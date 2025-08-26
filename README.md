@@ -2,7 +2,8 @@
 <h3>Desarrollador C#.NET | Estudiante avanzado de programación</h3>
 
 ## 📊 My GitHub Stats
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santucho12&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=1da1f2&icon_color=1da1f2)
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santucho12&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=3399ff&text_color=3399ff&icon_color=3399ff&ring_color=3399ff)
+
 
 <p>
 🎓 Estudiante de la UTN - Tecnicatura en programación<br>
