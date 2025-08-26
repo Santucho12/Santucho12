@@ -1,5 +1,5 @@
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
-<p>I’m an <strong>advanced student</strong> of the <strong>Programming Technician program</strong> at <strong>UTN</strong>, passionate about <strong>developing efficient solutions</strong> and <strong>solving complex problems</strong>. I have experience in <strong>web application</strong> and <strong>API development</strong>, working with technologies such as <em>HTML</em>, <em>CSS</em>, <em>JavaScript</em>, <em>React</em>, <em>Node.js</em>, and <em>C#.NET</em>.</p>
+<p>I’m an <strong>advanced student</strong> of the <strong>Programming Technician program</strong> at <strong>UTN</strong>, passionate about <strong>developing efficient solutions</strong> and <strong>solving complex problems</strong>. I have experience in <strong>web application</strong> and <strong>API development</strong></p>
 
 <p>Here you will find <strong>public repositories</strong> with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any <strong>suggestions</strong> or <strong>questions</strong>.</p>
 
