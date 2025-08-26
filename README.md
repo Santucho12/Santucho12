@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="README.es.md"><img src="https://img.shields.io/badge/-Español-red" alt="Español"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/-English-blue" alt="English"/></a>
+</p>
+
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
 <p>I’m <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development</p>
 
