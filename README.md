@@ -1,19 +1,8 @@
 <h1>Hola 👋, soy Santiago Segal</h1>
 <h3>Desarrollador C#.NET | Estudiante avanzado de programación</h3>
 
----
-
-## 📊 Mis GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santucho12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Santiago's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santucho12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
+## 📊 My GitHub Stats
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santucho12&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=1da1f2&icon_color=1da1f2)
 
 <p>
 🎓 Estudiante de la UTN - Tecnicatura en programación<br>
@@ -38,6 +27,5 @@
 ---
 
 ### 📫 Cómo contactarme
-
-- 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)  
+- 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)
 - 📬 Email: santysegal@gmail.com
