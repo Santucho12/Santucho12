@@ -32,24 +32,45 @@
 </p>
 
 
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="600" > <p>**My Best Project** |
-|------------------------------------------------------------------------------|
-| 🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me, to manage all user logic, claims, responses, and authentication.. |
-| 🛠️ **Technologies:** `C#` | `ASP.NET Core MVC / Razor Pages` | `JWT` | `SignalR` | `REST API` | `Docker` | `CSV Export` |
-| 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
+---
+<div align="center">
+  <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="350" />
+  <h2>My Best Project</h2>
+</div>
+
+<br>
+<b>Description:</b> A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me, to manage all user logic, claims, responses, and authentication.
+
+<b>Technologies:</b> C#, ASP.NET Core MVC / Razor Pages, JWT, SignalR, REST API, Docker, CSV Export
+
+<b>Repository:</b> <a href="https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git">Proyecto-SupportWebb-.Net</a>
 
 
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="600" > <p>**Other Project** |
-|------------------------------------------------------------------------------|
-| 🔹 **Description:** Another project example: a full-stack application with Node.js and React. It's a hotel reservation management system that uses MongoDB. |
-| 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
-| 🌐 **Repository:** [Link](https://github.com/Santucho12/HotelReservas-proyectoFinal-BaseDeDatos2.git) |
+---
+<div align="center">
+  <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="350" />
+  <h2>Other Project</h2>
+</div>
 
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="600" > <p>**Third Project** |
-|------------------------------------------------------------------------------|
-| 🔹 **Description:** This project is a web application for a clinic to manage patients and appointments. |
-| 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
-| 🌐 **Repository:** [Link](https://github.com/Santucho12/ClinicaMedica-proyecto-programacion3.git) |
+<br>
+<b>Description:</b> Another project example: a full-stack application with Node.js and React. It's a hotel reservation management system that uses MongoDB.
+
+<b>Technologies:</b> Node.js, Express, React, MongoDB, Docker
+
+<b>Repository:</b> <a href="https://github.com/Santucho12/HotelReservas-proyectoFinal-BaseDeDatos2.git">HotelReservas-proyectoFinal-BaseDeDatos2</a>
+
+---
+<div align="center">
+  <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="350" />
+  <h2>Third Project</h2>
+</div>
+
+<br>
+<b>Description:</b> This project is a web application for a clinic to manage patients and appointments.
+
+<b>Technologies:</b> Node.js, Express, React, MongoDB, Docker
+
+<b>Repository:</b> <a href="https://github.com/Santucho12/ClinicaMedica-proyecto-programacion3.git">ClinicaMedica-proyecto-programacion3</a>
 
 
 ### 📫 How to contact me
