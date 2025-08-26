@@ -1,7 +1,8 @@
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
-<p>I’m an advanced student of the Programming Technician program at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development.
+<p>I’m an <strong>advanced student</strong> of the <strong>Programming Technician program</strong> at <strong>UTN</strong>, passionate about <strong>developing efficient solutions</strong> and <strong>solving complex problems</strong>. I have experience in <strong>web application</strong> and <strong>API development</strong>, working with technologies such as <em>HTML</em>, <em>CSS</em>, <em>JavaScript</em>, <em>React</em>, <em>Node.js</em>, and <em>C#.NET</em>.</p>
 
-You'll here find public repositories with Skills examples. Feel free to contact me if you have any suggestions or questions..</p>
+<p>Here you will find <strong>public repositories</strong> with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any <strong>suggestions</strong> or <strong>questions</strong>.</p>
+
 
 
 <img alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Santucho12&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=3399ff&amp;text_color=242424ff&amp;icon_color=3455ccff&amp;ring_color=3399ff">
