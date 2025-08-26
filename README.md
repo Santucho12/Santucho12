@@ -32,19 +32,21 @@
 </p>
 
 
-| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**My Best Projects** |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="600" > <p>**My Best Project** |
 |------------------------------------------------------------------------------|
-| 🔹 **Description:** Project for lab 4, it is a full stack of Node.js and Flutter, done as a team. It uses an API created with Node.js which connects to Platzi Fake Store API. |
-| 🛠️ **Technologies:** `Flutter` |
+| 🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles.
+
+This system uses a proprietary API, developed entirely by me, to manage all user logic, claims, responses, and authentication.. |
+| 🛠️ **Technologies:** `C#` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
 
-| <p align="center"> <img src="./images/flutterproject2.png" width="200" > <p>**Other Project** |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="600" > <p>**Other Project** |
 |------------------------------------------------------------------------------|
 | 🔹 **Description:** Another project example, full stack app using Node.js and React. Implemented user authentication and REST API consumption. |
 | 🛠️ **Technologies:** `Node.js`, `React` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/AnotherProject.git) |
 
-| <p align="center"> <img src="./images/flutterproject3.png" width="200" > <p>**Third Project** |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="600" > <p>**Third Project** |
 |------------------------------------------------------------------------------|
 | 🔹 **Description:** Mobile app built with Flutter, connecting to a custom backend API. Features real-time updates and data synchronization. |
 | 🛠️ **Technologies:** `Flutter`, `Node.js` |
