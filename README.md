@@ -32,67 +32,37 @@
 </p>
 
 
----
 <div align="center">
-  <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="400" />
-  
+  <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="350" />
   <h2>My Best Project</h2>
 </div>
+---
+**Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me, to manage all user logic, claims, responses, and authentication.
 
-**Description:**
-- Project developed for claims management and support in companies.
-- Modern and efficient platform for managing requests, notifications, and user roles.
-- Uses a proprietary API to manage user logic, claims, responses, and authentication.
-
-**Technologies:**
-- C#
-- ASP.NET Core MVC / Razor Pages
-- JWT
-- SignalR
-- REST API
-- Docker
-- CSV Export
+**Technologies:** `C#`, `ASP.NET Core MVC / Razor Pages`, `JWT`, `SignalR`, `REST API`, `Docker`, `CSV Export`
 
 **Repository:** [Proyecto-SupportWebb-.Net](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git)
 
 
----
 <div align="center">
-  <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="400" />
-  
+  <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="350" />
   <h2>Other Project</h2>
 </div>
+---
+**Description:** Another project example: a full-stack application with Node.js and React. It's a hotel reservation management system that uses MongoDB.
 
-**Description:**
-- Full-stack application for hotel reservation management.
-- Built with Node.js and React.
-- Uses MongoDB for data storage.
-
-**Technologies:**
-- Node.js
-- Express
-- React
-- MongoDB
-- Docker
+**Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker`
 
 **Repository:** [HotelReservas-proyectoFinal-BaseDeDatos2](https://github.com/Santucho12/HotelReservas-proyectoFinal-BaseDeDatos2.git)
 
----
 <div align="center">
-  <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="400" />
-  
+  <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="350" />
   <h2>Third Project</h2>
 </div>
+---
+**Description:** This project is a web application for a clinic to manage patients and appointments.
 
-**Description:**
-- Web application for a clinic to manage patients and appointments.
-
-**Technologies:**
-- Node.js
-- Express
-- React
-- MongoDB
-- Docker
+**Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker`
 
 **Repository:** [ClinicaMedica-proyecto-programacion3](https://github.com/Santucho12/ClinicaMedica-proyecto-programacion3.git)
 
