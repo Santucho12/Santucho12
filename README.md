@@ -1,7 +1,7 @@
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
 <p>I’m <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development</p>
 
-<p>Here you will find public repositories with <strong>Skills examples</strong>. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
+<p>Here you will find public repositories with <strong>Skills</strong> examples. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
 
 
 <img alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Santucho12&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=3399ff&amp;text_color=242424ff&amp;icon_color=3455ccff&amp;ring_color=3399ff">
@@ -9,7 +9,7 @@
 
 
 <p>
-🎓 UTN Student - Programming Technician<br>
+🎓 National Technological University Student - Programming Technician<br>
 💻 Passionate about developing efficient solutions and solving problems<br>
 🚀 Always learning new technologies and best practices
 </p>
@@ -36,7 +36,7 @@
 
 
 
-| **My Best Project** |
+| **⭐ SupportWebb** |
 |------------------------------------------------------------------------------|
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="800" > </p> |
 |🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me. |
@@ -44,14 +44,14 @@
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
 
 
-| **Other Project** |
+| **⭐️ SupportWebb** <img src="https://img.shields.io/badge/-Star-CCCCCC?style=flat&logo=star&logoColor=white" alt="Silver Star" /> |
 |------------------------------------------------------------------------------|
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="800" > </p> |
 | 🔹 **Description:** Another project example: a full-stack application with Node.js and React. It's a hotel reservation management system that uses MongoDB. |
 | 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/HotelReservas-proyectoFinal-BaseDeDatos2.git) |
 
-| **Third Project** |
+| **⭐ SupportWebb** |
 |------------------------------------------------------------------------------|
 | <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="700" > </p> |
 | 🔹 **Description:** This project is a web application for a clinic to manage patients and appointments. It uses the MERN stack |
