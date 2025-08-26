@@ -2,7 +2,7 @@
 <h3>Desarrollador C#.NET | Estudiante avanzado de programación</h3>
 
 ## 📊 My GitHub Stats
-<img alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Santucho12&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=3399ff&amp;text_color=000000&amp;icon_color=3455ccff&amp;ring_color=3399ff">
+<img alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Santucho12&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=3399ff&amp;text_color=000000ff&amp;icon_color=3455ccff&amp;ring_color=3399ff">
 
 
 <p>
