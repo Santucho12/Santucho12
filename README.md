@@ -38,7 +38,7 @@
 
 | **My Best Project** |
 |------------------------------------------------------------------------------|
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="750" > </p> |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021233.png" width="650" > </p> |
 |🔹 **Description:** A project developed for claims management and support in companies. It is a modern and efficient platform for managing requests, notifications, and user roles. This system uses a proprietary API, developed entirely by me. |
 | 🛠️ **Technologies:** `C#`, `ASP.NET Core MVC / Razor Pages`, `JWT`, `SignalR`, `REST API`, `Docker`, `CSV Export` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/Proyecto-SupportWebb-.Net.git) |
@@ -46,14 +46,14 @@
 
 | **Other Project** |
 |------------------------------------------------------------------------------|
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="750" > </p> |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021812.png" width="650" > </p> |
 | 🔹 **Description:** Another project example: a full-stack application with Node.js and React. It's a hotel reservation management system that uses MongoDB. |
 | 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/HotelReservas-proyectoFinal-BaseDeDatos2.git) |
 
 | **Third Project** |
 |------------------------------------------------------------------------------|
-| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="750" > </p> |
+| <p align="center"> <img src="images/Captura%20de%20pantalla%202025-08-26%20021942.png" width="650" > </p> |
 | 🔹 **Description:** This project is a web application for a clinic to manage patients and appointments. It uses the MERN stack |
 | 🛠️ **Technologies:** `Node.js`, `Express`, `React`, `MongoDB`, `Docker` |
 | 🌐 **Repository:** [Link](https://github.com/Santucho12/ClinicaMedica-proyecto-programacion3.git) |
