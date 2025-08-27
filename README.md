@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Razor-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
     <img src="https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Entity%20Framework-6DB33F?style=flat&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
     <!-- JS/Backend & DB -->
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
