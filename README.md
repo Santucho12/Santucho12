@@ -18,19 +18,26 @@
 <p align="left">
     <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Razor-512BD4?style=flat&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Entity%20Framework-6DB33F?style=flat&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
+    <!-- Web core -->
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <!-- JS/Backend & DB -->
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <!-- Otros -->
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-xUnit-02569B?style=flat&logo=xunit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
+
 
 ---
 
