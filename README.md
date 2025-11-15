@@ -1,19 +1,11 @@
 <h1>Hi, I'm Santiago Segal👋🏽 👨🏽‍💻</h1>
+<p>I’m <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems. I have experience in web application and API development</p>
 
-<p>
-I’m an <strong>Advanced programming student</strong> at UTN, passionate about developing efficient solutions and solving complex problems.  
-I have experience in <strong>web application</strong> and <strong>API development</strong>.
-</p>
+<p>Here you will find public repositories with <strong>Skills</strong> examples. Feel free to <strong>contact me</strong> if you have any suggestions or questions.</p>
 
-<p>
-Here you will find public repositories with <strong>Skills</strong> examples.  
-Feel free to <strong>contact me</strong> if you have any suggestions or questions.
-</p>
 
----
+<img alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Santucho12&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=3399ff&amp;text_color=242424ff&amp;icon_color=3455ccff&amp;ring_color=3398ff">
 
-### Santiago Segal 's GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santucho12&theme=...">
 
 
 <p>
