@@ -12,12 +12,9 @@ Feel free to <strong>contact me</strong> if you have any suggestions or question
 
 ---
 
-### 📊 Santiago's GitHub Stats
+### Santiago Segal 's GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santucho12&theme=...">
 
-<img 
-    alt="Santiago's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Santucho12&show_icons=true&theme=transparent&title_color=3399ff&text_color=242424&icon_color=3455cc&ring_color=3399ff&cache_seconds=3600"
-/>
 
 <p>
 🎓 National Technological University Student - Programming Technician<br>
