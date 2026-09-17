@@ -74,4 +74,4 @@
 - 🌐 LinkedIn: [linkedin.com/in/santiago-segal-18bba3243](https://linkedin.com/in/santiago-segal-18bba3243)
 - 📬 Email: santysegal@gmail.com 
 
-haber devolvemelo completo con eso
+
